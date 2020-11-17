@@ -37,3 +37,10 @@ EL led Amarillo funciona como indicador de estado.
 El led verde encenderá para indica cuándo la base gira y se tomara la foto.
 
 Después de conectar lo necesario  (recuerda poner la alimentación externa para el motor) el led amarillo comenzara a parpadear lento para indica el modo espera, presiona el boto por asta que el led permanezca prendido y suelte y comenzara a girar la base  y tomar fotos de manera automática, recuerda configura el Smartphone para tomar la fotos, cuando termine de girar la base el led amarillo comenzara a parpadear de manera mas rápida para indicar que finaliso, presiona nuevamente el boto asta que pasa a parpadear de como al principio para dejar  en funcionamiento.    
+
+
+### Imágen final de producto 
+Lleva su edición pero la idea es obtener este tipo de fotos 
+
+
+![Alt text]()
