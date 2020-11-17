@@ -11,11 +11,12 @@ El proyecto tiene como objetivo generar un espacio para fotografiá 360º  y se 
 
 ### Esquema de iluminación y representación
 
-https://raw.githubusercontent.com/IngJuanZD/Arduino-Python-Serial/main/Fotos%20auxiliares/Captura%20de%20pantalla_2020-11-17_12-49-22.png
+![Alt text](https://raw.githubusercontent.com/IngJuanZD/Arduino-Python-Serial/main/Fotos%20auxiliares/Captura%20de%20pantalla_2020-11-17_12-49-22.png) 
+
 
 ### Conexiones
 
-https://raw.githubusercontent.com/IngJuanZD/Arduino-Python-Serial/main/Conexiones.png
+![Alt text](https://raw.githubusercontent.com/IngJuanZD/Arduino-Python-Serial/main/Conexiones.png)
 
 El control se conforma de:
     
