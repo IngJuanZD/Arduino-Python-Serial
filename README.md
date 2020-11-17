@@ -40,7 +40,6 @@ Después de conectar lo necesario  (recuerda poner la alimentación externa para
 
 
 ### Imágen final de producto 
-Lleva su edición pero la idea es obtener este tipo de fotos 
+La idea es obtener este tipo de fotos
 
-
-![Alt text]()
+<img src="https://github.com/IngJuanZD/Arduino-Python-Serial/blob/main/Fotos%20auxiliares/DCW0018.gif" width="400" height="400" ALT="DCW0018"/>
