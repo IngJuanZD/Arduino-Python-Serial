@@ -9,6 +9,10 @@ El proyecto tiene como objetivo generar un espacio para fotografiá 360º  y se 
     • Cámara o Smartphone (Android)
     • Complemento : uso de Scrcpy (v1.15.1)
 
+Tutorial que he seguido para configurar el Scrcoy
+https://nocheprogramacion.com/Tutoriales/065_Como_ver_tu_celular_en_tu_PC.html
+
+
 ### Esquema de iluminación y representación
 
 ![Alt text](https://raw.githubusercontent.com/IngJuanZD/Arduino-Python-Serial/main/Fotos%20auxiliares/Captura%20de%20pantalla_2020-11-17_12-49-22.png) 
