@@ -43,3 +43,8 @@ Después de conectar lo necesario  (recuerda poner la alimentación externa para
 La idea es obtener este tipo de fotos
 
 <img src="https://github.com/IngJuanZD/Arduino-Python-Serial/blob/main/Fotos%20auxiliares/DCW0018.gif" width="400" height="400" ALT="DCW0018"/>
+
+### Contáctame
+Si te gustaría saber más hacerca del proyecto o te intereso contactame
+
+https://ingjuanzd.github.io/
