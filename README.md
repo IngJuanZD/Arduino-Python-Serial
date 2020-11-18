@@ -48,3 +48,7 @@ La idea es obtener este tipo de fotos
 Si te gustaría saber más hacerca del proyecto o te intereso contactame
 
 https://ingjuanzd.github.io/
+
+Este proyecto se desarrollo para apoyar a Decoration Croncrete and Wood y su página está en remodelación
+
+https://www.instagram.com/decorationcw/
