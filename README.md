@@ -1,26 +1,27 @@
-# Arduino-Python-Serial
+# Foto 360 Low Cost
+
 Comunicación Serial Arduino - Python y uso de accion de teclado con librería PyAutogui
 
 El proyecto tiene como objetivo generar un espacio para fotografiá 360º  y se conforma de:
 
-    • Caja de luz
-    • Luces
-    • Base giratoria y controlador
-    • Cámara o Smartphone (Android)
-    • Complemento : uso de Scrcpy (v1.15.1)
+    * Caja de luz
+    * Luces
+    * Base giratoria y controlador
+    * Smartphone (Android) [Pendiente de actualizacion Cámara Reflex]
+    * Complemento : uso de Scrcpy
+   [Scrcpy (v1.15.1)](https://github.com/Genymobile/scrcpy)
 
-Tutorial que he seguido para configurar el Scrcpy
-https://nocheprogramacion.com/Tutoriales/065_Como_ver_tu_celular_en_tu_PC.html
+Tutorial que he seguido para configurar el Scrcpy [ALSW](https://nocheprogramacion.com/Tutoriales/065_Como_ver_tu_celular_en_tu_PC.html)
 
 
 ### Esquema de iluminación y representación
 
-![Alt text](https://raw.githubusercontent.com/IngJuanZD/Arduino-Python-Serial/main/Fotos%20auxiliares/Captura%20de%20pantalla_2020-11-17_12-49-22.png) 
+![Caja de luz](/Fotos%20auxiliares/Captura%20de%20pantalla_2020-11-17_12-49-22.png) 
 
 
 ### Conexiones
 
-![Alt text](https://raw.githubusercontent.com/IngJuanZD/Arduino-Python-Serial/main/Conexiones.png)
+![Diagrama](/Conexiones.png)
 
 El control se conforma de:
     
@@ -42,13 +43,13 @@ Después de conectar lo necesario  (recuerda poner la alimentación externa para
 ### Imágen final de producto 
 La idea es obtener este tipo de fotos
 
-<img src="https://github.com/IngJuanZD/Arduino-Python-Serial/blob/main/Fotos%20auxiliares/DCW0018.gif" width="400" height="400" ALT="DCW0018"/>
+<img src="/Fotos%20auxiliares/DCW0018.gif" width="400" height="400" ALT="DCW0018"/>
 
 ### Contáctame
-Si te gustaría saber más hacerca del proyecto o te intereso contactame
+Si te gustaría saber más hacerca del proyecto o te intereso contactame:
 
-https://ingjuanzd.github.io/
+[Ing.JuanZD](https://ingjuanzd.github.io/)
 
 Este proyecto se desarrollo para apoyar a Decoration Croncrete and Wood y su página está en remodelación
 
-https://www.instagram.com/decorationcw/
+[Decoration Concrete and Wood](https://www.instagram.com/decorationcw/)
