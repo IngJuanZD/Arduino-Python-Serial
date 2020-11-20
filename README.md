@@ -1,7 +1,5 @@
 # Foto 360 Low Cost
 
-Comunicación Serial Arduino - Python y uso de accion de teclado con librería PyAutogui
-
 El proyecto tiene como objetivo generar un espacio para fotografiá 360º  y se conforma de:
 
     * Caja de luz
