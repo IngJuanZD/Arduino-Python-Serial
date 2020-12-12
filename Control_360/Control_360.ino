@@ -24,7 +24,7 @@ int i = 0;
 const int TiempoEspera[3] = {300, 1000, 2000};
 const int PinBoton = 5;      //boton de inicio
 const int motor = 2;    //motor salida
-const int NumeroFoto = 36;      //numero de fotos, cambiar el numero por el total de fotos
+const int NumeroFoto = 40;      //numero de fotos, cambiar el numero por el total de fotos
 
 void setup() {
   Serial.begin(115200); //configurando velocidad del puerto
@@ -76,7 +76,7 @@ void FuncionFotos() {
       }
       break;
     case 2://Enciendo el motor por tiempo
-      if (TiempoPasadoFoto + 200 < millis()) {
+      if (TiempoPasadoFoto + 220 < millis()) {
         digitalWrite(motor, LOW);
         EstadoFoto = 3;
         TiempoPasadoFoto = millis();
